@@ -43,13 +43,6 @@
             border-radius: 10px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
-
-        hr {
-            margin: 20px auto;
-            width: 80%;
-            border: 0;
-            border-top: 1px solid #ccc;
-        }
     </style>
 </head>
 
@@ -58,10 +51,11 @@
         <h1>Joaquim Alves de Gois Bittencourt</h1>
         <p>Endereço: Rua dos Sinos, 345 - Ipiranga, Sapucaia, Rio Grande do Sul</p>
         <p>E-mail: agbjsr@gmail.com</p>
+        <p>GitHub: <a href="https://github.com/joaquimwzx" target="_blank">https://github.com/joaquimwzx</a></p>
 
+        
         <img src="./assets/foto1.jpeg" alt="Foto do currículo">
 
-        <hr>
 
         <h2>Descrição sobre mim</h2>
         <p>Sou uma pessoa que valoriza muito a comunicação para solucionar problemas e manter a calma em situações
@@ -88,5 +82,4 @@
 </body>
 
 </html>
-
 ```
