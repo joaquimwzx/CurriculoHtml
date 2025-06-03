@@ -48,13 +48,12 @@
 
 <body>
     <div class="folha">
+         <img src="./assets/foto1.jpeg" alt="Foto do currículo">
         <h1>Joaquim Alves de Gois Bittencourt</h1>
         <p>Endereço: Rua dos Sinos, 345 - Ipiranga, Sapucaia, Rio Grande do Sul</p>
-        <p>E-mail: agbjsr@gmail.com</p>
+        <p>E-mail: agbjsr@gmail.com — Telefone: (51) 99977-0079</p>
         <p>GitHub: <a href="https://github.com/joaquimwzx" target="_blank">https://github.com/joaquimwzx</a></p>
-
-        
-        <img src="./assets/foto1.jpeg" alt="Foto do currículo">
+       
 
 
         <h2>Descrição sobre mim</h2>
